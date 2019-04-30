@@ -5,4 +5,3 @@ class Item
     @name = name
     @price = price
   end
-
